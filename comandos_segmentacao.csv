@@ -1,0 +1,109 @@
+﻿segmentação escolhida,diagnóstico,frase
+left,ad,RM de encéfalo (T1 3D): paciente com AD. Sinais de redução volumétrica. Solicito segmentação volumétrica do hipocampo esq.
+left,ad,"Paciente AD, controle evolutivo. Focar no hipocampo esquerdo."
+left,ad,Segmente o hipocampo esquerdo para o caso AD.
+left,ad,Avaliar volume do hipocampo à esquerda. Status: AD.
+left,ad,Hipocampo esq. Pct AD.
+left,ad,Isolamento da formação hipocampal à esquerda.
+left,ad,Segmente o esquerdo.
+left,ad,esquerda
+left,ad,"Por favor, segmentar o lado esquerdo."
+left,ad,Fazer a máscara do hipocampo esq para este pct AD.
+left,ad,Paciente diagnosticado com doença de Alzheimer. Solicito segmentação volumétrica do hipocampo esquerdo.
+left,ad,Avaliação estrutural em paciente com quadro de Alzheimer's Disease. Focar no hipocampo à esquerda.
+left,cn,RM de encéfalo (T1 3D): paciente com CN. Sinais de redução volumétrica. Solicito segmentação volumétrica do hipocampo esq.
+left,cn,"Paciente CN, controle evolutivo. Focar no hipocampo esquerdo."
+left,cn,Segmente o hipocampo esquerdo para o caso CN.
+left,cn,Avaliar volume do hipocampo à esquerda. Status: CN.
+left,cn,Hipocampo esq. Pct CN.
+left,cn,Isolamento da formação hipocampal à esquerda.
+left,cn,Segmente o esquerdo.
+left,cn,esquerda
+left,cn,"Por favor, segmentar o lado esquerdo."
+left,cn,Fazer a máscara do hipocampo esq para este pct CN.
+left,cn,Paciente diagnosticado com indivíduo cognitivamente normal. Solicito segmentação volumétrica do hipocampo esquerdo.
+left,cn,Avaliação estrutural em paciente com quadro de Cognitively Normal. Focar no hipocampo à esquerda.
+left,mci,RM de encéfalo (T1 3D): paciente com MCI. Sinais de redução volumétrica. Solicito segmentação volumétrica do hipocampo esq.
+left,mci,"Paciente MCI, controle evolutivo. Focar no hipocampo esquerdo."
+left,mci,Segmente o hipocampo esquerdo para o caso MCI.
+left,mci,Avaliar volume do hipocampo à esquerda. Status: MCI.
+left,mci,Hipocampo esq. Pct MCI.
+left,mci,Isolamento da formação hipocampal à esquerda.
+left,mci,Segmente o esquerdo.
+left,mci,esquerda
+left,mci,"Por favor, segmentar o lado esquerdo."
+left,mci,Fazer a máscara do hipocampo esq para este pct MCI.
+left,mci,Paciente diagnosticado com comprometimento cognitivo leve. Solicito segmentação volumétrica do hipocampo esquerdo.
+left,mci,Avaliação estrutural em paciente com quadro de Mild Cognitive Impairment. Focar no hipocampo à esquerda.
+right,ad,RM encéfalo: paciente com AD. Suspeita de esclerose/atrofia mesial. Segmentação volumétrica do hipocampo dir.
+right,ad,"Paciente AD, avaliação de rotina. Focar no hipocampo direito."
+right,ad,Segmente o hipocampo direito para o caso AD.
+right,ad,Avaliar volume do hipocampo à direita. Status: AD.
+right,ad,Hipocampo dir. Pct AD.
+right,ad,Isolamento da formação hipocampal à direita.
+right,ad,Segmente o direito.
+right,ad,direita
+right,ad,"Por favor, segmentar o lado direito."
+right,ad,Extrair máscara do hipocampo dir deste paciente AD.
+right,ad,Paciente diagnosticado com doença de Alzheimer. Solicito segmentação volumétrica do hipocampo direito.
+right,ad,Avaliação estrutural em paciente com quadro de Alzheimer's Disease. Focar no hipocampo à direita.
+right,cn,RM encéfalo: paciente com CN. Suspeita de esclerose/atrofia mesial. Segmentação volumétrica do hipocampo dir.
+right,cn,"Paciente CN, avaliação de rotina. Focar no hipocampo direito."
+right,cn,Segmente o hipocampo direito para o caso CN.
+right,cn,Avaliar volume do hipocampo à direita. Status: CN.
+right,cn,Hipocampo dir. Pct CN.
+right,cn,Isolamento da formação hipocampal à direita.
+right,cn,Segmente o direito.
+right,cn,direita
+right,cn,"Por favor, segmentar o lado direito."
+right,cn,Extrair máscara do hipocampo dir deste paciente CN.
+right,cn,Paciente diagnosticado com indivíduo cognitivamente normal. Solicito segmentação volumétrica do hipocampo direito.
+right,cn,Avaliação estrutural em paciente com quadro de Cognitively Normal. Focar no hipocampo à direita.
+right,mci,RM encéfalo: paciente com MCI. Suspeita de esclerose/atrofia mesial. Segmentação volumétrica do hipocampo dir.
+right,mci,"Paciente MCI, avaliação de rotina. Focar no hipocampo direito."
+right,mci,Segmente o hipocampo direito para o caso MCI.
+right,mci,Avaliar volume do hipocampo à direita. Status: MCI.
+right,mci,Hipocampo dir. Pct MCI.
+right,mci,Isolamento da formação hipocampal à direita.
+right,mci,Segmente o direito.
+right,mci,direita
+right,mci,"Por favor, segmentar o lado direito."
+right,mci,Extrair máscara do hipocampo dir deste paciente MCI.
+right,mci,Paciente diagnosticado com comprometimento cognitivo leve. Solicito segmentação volumétrica do hipocampo direito.
+right,mci,Avaliação estrutural em paciente com quadro de Mild Cognitive Impairment. Focar no hipocampo à direita.
+both,ad,RM de encéfalo: paciente com AD. Avaliação global de lobos temporais. Solicito segmentação volumétrica do hipocampo bilateral.
+both,ad,"Paciente AD, seguimento longitudinal. Focar em hipocampo bilateral."
+both,ad,Segmente bilateralmente para o caso AD.
+both,ad,Avaliar volume do hipocampo em ambos os lados. Status: AD.
+both,ad,Hipocampo esq e dir. Pct AD.
+both,ad,Isolamento da formação hipocampal bilateral.
+both,ad,Segmente bilateralmente.
+both,ad,bilateral
+both,ad,"Por favor, segmentar os dois lados."
+both,ad,Gerar máscaras de ambos os hipocampos (pct AD).
+both,ad,Paciente diagnosticado com doença de Alzheimer. Solicito segmentação volumétrica do hipocampo bilateral.
+both,ad,Avaliação estrutural em paciente com quadro de Alzheimer's Disease. Focar em ambos os hipocampos.
+both,cn,RM de encéfalo: paciente com CN. Avaliação global de lobos temporais. Solicito segmentação volumétrica do hipocampo bilateral.
+both,cn,"Paciente CN, seguimento longitudinal. Focar em hipocampo bilateral."
+both,cn,Segmente bilateralmente para o caso CN.
+both,cn,Avaliar volume do hipocampo em ambos os lados. Status: CN.
+both,cn,Hipocampo esq e dir. Pct CN.
+both,cn,Isolamento da formação hipocampal bilateral.
+both,cn,Segmente bilateralmente.
+both,cn,bilateral
+both,cn,"Por favor, segmentar os dois lados."
+both,cn,Gerar máscaras de ambos os hipocampos (pct CN).
+both,cn,Paciente diagnosticado com indivíduo cognitivamente normal. Solicito segmentação volumétrica do hipocampo bilateral.
+both,cn,Avaliação estrutural em paciente com quadro de Cognitively Normal. Focar em ambos os hipocampos.
+both,mci,RM de encéfalo: paciente com MCI. Avaliação global de lobos temporais. Solicito segmentação volumétrica do hipocampo bilateral.
+both,mci,"Paciente MCI, seguimento longitudinal. Focar em hipocampo bilateral."
+both,mci,Segmente bilateralmente para o caso MCI.
+both,mci,Avaliar volume do hipocampo em ambos os lados. Status: MCI.
+both,mci,Hipocampo esq e dir. Pct MCI.
+both,mci,Isolamento da formação hipocampal bilateral.
+both,mci,Segmente bilateralmente.
+both,mci,bilateral
+both,mci,"Por favor, segmentar os dois lados."
+both,mci,Gerar máscaras de ambos os hipocampos (pct MCI).
+both,mci,Paciente diagnosticado com comprometimento cognitivo leve. Solicito segmentação volumétrica do hipocampo bilateral.
+both,mci,Avaliação estrutural em paciente com quadro de Mild Cognitive Impairment. Focar em ambos os hipocampos.
